@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_vayu.mk
+    $(LOCAL_DIR)/aosip_vayu.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_vayu-user \
-    lineage_vayu-userdebug \
-    lineage_vayu-eng
+    aosip_vayu-user \
+    aosip_vayu-userdebug \
+    aosip_vayu-eng
